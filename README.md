@@ -14,4 +14,6 @@ place all your png cursor, if you don't have one the program will create one fro
 
 Unzip the GameCursor file, start setup.exe and the software will be ready to use
 
-![example](http://url/to/img.png)
+
+without *.png file in image folder
+![example](https://github.com/JulesG10/GameCursor/blob/master/demo.png)
