@@ -17,3 +17,5 @@ Unzip the GameCursor file, start setup.exe and the software will be ready to use
 
 without *.png file in image folder
 ![example](https://github.com/JulesG10/GameCursor/blob/master/demo.png)
+with image png from internet in the image folder
+![example](https://github.com/JulesG10/GameCursor/blob/master/demo2.png)
