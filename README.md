@@ -10,4 +10,6 @@ place all your png cursor, if you don't have one the program will create one fro
 * color: (all text color: red)
 * size: (number)px
 * diviseur : (number) 
-![alt text](http://url/to/img.png)
+
+
+![example](http://url/to/img.png)
