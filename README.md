@@ -12,8 +12,9 @@ see [config_examle](https://github.com/JulesG10/GameCursor/blob/master/config_ex
 * size: (number)px
 * diviseur : (number) 
 > Instalation 
+~~Unzip the GameCursor file, start setup.exe and the software will be ready to use.~~
+installer not working (cannot create image folder and config file (admin)) if you have any answer tell me..  
 
-Unzip the GameCursor file, start setup.exe and the software will be ready to use.
 
 ![demo1](https://github.com/JulesG10/GameCursor/blob/master/demo.png)
 without *.png file in image folder
